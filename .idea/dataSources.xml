@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1927965698">
+    <data-source source="LOCAL" name="PostgreSQL - django_tutorial@localhost" uuid="7631e00c-b2d1-476f-b7f1-895d082e4221">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/django_tutorial</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
